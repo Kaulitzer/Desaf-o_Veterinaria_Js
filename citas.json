@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Max",
+    "edad": "3 años",
+    "animal": "perro",
+    "color": "marrón",
+    "enfermedad": "fiebre"
+  },
+  {
+    "nombre": "Bugs",
+    "edad": "4 años",
+    "animal": "conejo",
+    "color": "gris",
+    "enfermedad": "dolor_de_oidos"
+  }
+]
